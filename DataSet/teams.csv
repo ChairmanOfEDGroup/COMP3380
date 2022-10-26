@@ -1,0 +1,31 @@
+LEAGUE_ID,TEAM_ID,ABBREVIATION,CITY,ARENA,ARENACAPACITY,OWNER,GENERALMANAGER,HEADCOACH,DLEAGUEAFFILIATION
+0,1610612737,ATL,Atlanta,State Farm Arena,18729,Tony Ressler,Travis Schlenk,Lloyd Pierce,Erie Bayhawks
+0,1610612738,BOS,Boston,TD Garden,18624,Wyc Grousbeck,Danny Ainge,Brad Stevens,Maine Red Claws
+0,1610612740,NOP,New Orleans,Smoothie King Center,,Tom Benson,Trajan Langdon,Alvin Gentry,No Affiliate
+0,1610612741,CHI,Chicago,United Center,21711,Jerry Reinsdorf,Gar Forman,Jim Boylen,Windy City Bulls
+0,1610612742,DAL,Dallas,American Airlines Center,19200,Mark Cuban,Donnie Nelson,Rick Carlisle,Texas Legends
+0,1610612743,DEN,Denver,Pepsi Center,19099,Stan Kroenke,Tim Connelly,Michael Malone,No Affiliate
+0,1610612745,HOU,Houston,Toyota Center,18104,Tilman Fertitta,Daryl Morey,Mike D'Antoni,Rio Grande Valley Vipers
+0,1610612746,LAC,Los Angeles,Staples Center,19060,Steve Ballmer,Michael Winger,Doc Rivers,Agua Caliente Clippers of Ontario
+0,1610612747,LAL,Los Angeles,Staples Center,19060,Jerry Buss Family Trust,Rob Pelinka,Frank Vogel,South Bay Lakers
+0,1610612748,MIA,Miami,AmericanAirlines Arena,19600,Micky Arison,Pat Riley,Erik Spoelstra,Sioux Falls Skyforce
+0,1610612749,MIL,Milwaukee,Fiserv Forum,17500,Wesley Edens & Marc Lasry,Jon Horst,Mike Budenholzer,Wisconsin Herd
+0,1610612750,MIN,Minnesota,Target Center,19356,Glen Taylor,Scott Layden,Ryan Saunders,Iowa Wolves
+0,1610612751,BKN,Brooklyn,Barclays Center,,Joe Tsai,Sean Marks,Kenny Atkinson,Long Island Nets
+0,1610612752,NYK,New York,Madison Square Garden,19763,Cablevision (James Dolan),Steve Mills,David Fizdale,Westchester Knicks
+0,1610612753,ORL,Orlando,Amway Center,0,Rick DeVos,John Hammond,Steve Clifford,Lakeland Magic
+0,1610612754,IND,Indiana,Bankers Life Fieldhouse,18345,Herb Simon,Kevin Pritchard,Nate McMillan,Fort Wayne Mad Ants
+0,1610612755,PHI,Philadelphia,Wells Fargo Center,,Joshua Harris,Elton Brand,Brett Brown,Delaware Blue Coats
+0,1610612756,PHX,Phoenix,Talking Stick Resort Arena,,Robert Sarver,James Jones,Monty Williams,Northern Arizona Suns
+0,1610612757,POR,Portland,Moda Center,19980,Paul Allen,Neil Olshey,Terry Stotts,No Affiliate
+0,1610612758,SAC,Sacramento,Golden 1 Center,17500,Vivek Ranadive,Vlade Divac,Luke Walton,Stockton Kings
+0,1610612759,SAS,San Antonio,AT&T Center,18694,Peter Holt,Brian Wright,Gregg Popovich,Austin Spurs
+0,1610612760,OKC,Oklahoma City,Chesapeake Energy Arena,19163,Clay Bennett,Sam Presti,Billy Donovan,Oklahoma City Blue
+0,1610612761,TOR,Toronto,Scotiabank Arena,19800,Maple Leaf Sports and Entertainment,Masai Ujiri,Nick Nurse,Raptors 905
+0,1610612762,UTA,Utah,Vivint Smart Home Arena,20148,Greg Miller,Dennis Lindsey,Quin Snyder,Salt Lake City Stars
+0,1610612763,MEM,Memphis,FedExForum,18119,Robert Pera,Zach Kleiman,Taylor Jenkins,Memphis Hustle
+0,1610612764,WAS,Washington,Capital One Arena,20647,Ted Leonsis,Tommy Sheppard,Scott Brooks,Capital City Go-Go
+0,1610612765,DET,Detroit,Little Caesars Arena,21000,Tom Gores,Ed Stefanski,Dwane Casey,Grand Rapids Drive
+0,1610612766,CHA,Charlotte,Spectrum Center,19026,Michael Jordan,Mitch Kupchak,James Borrego,Greensboro Swarm
+0,1610612739,CLE,Cleveland,Quicken Loans Arena,20562,Dan Gilbert,Koby Altman,John Beilein,Canton Charge
+0,1610612744,GSW,Golden State,Chase Center,19596,Joe Lacob,Bob Myers,Steve Kerr,Santa Cruz Warriors
